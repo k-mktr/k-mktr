@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi there! I'm Karol Stefan Danisz, glad you're here to check out my GitHub page.
+  
+👀 I’m interested in leveraging AI, open-source technologies, and decentralized networks to drive business growth and improve operational efficiency.
 
-<!--
-**k-mktr/k-mktr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning about the latest advancements in artificial intelligence technology and exploring new applications for self-hosted generative AI and large language models.
 
-Here are some ideas to get you started:
+🤸 I’m looking to collaborate on projects that focus on IT infrastructure optimization, open-source software solutions, and digital transformation initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: k@mktr.sbs or https://mktr.sbs/linkedin
+
+⚡ Fun fact: I've worked in both finance and IT sectors, giving me a unique perspective on the intersection of technology and business.
+
+🤯 I'm now taking the step into GitHub, eager to share my projects and connect with like-minded individuals.
