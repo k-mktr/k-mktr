@@ -6,8 +6,8 @@
 
 🤸 I’m looking to collaborate on projects that focus on IT infrastructure optimization, open-source software solutions, and digital transformation initiatives.
 
-📫 How to reach me: k@mktr.sbs or https://mktr.sbs/linkedin
-
 ⚡ Fun fact: I've worked in both finance and IT sectors, giving me a unique perspective on the intersection of technology and business.
 
 🤯 I'm now taking the step into GitHub, eager to share my projects and connect with like-minded individuals.
+
+📫 How to reach me: k@mktr.sbs or https://mktr.sbs/linkedin
