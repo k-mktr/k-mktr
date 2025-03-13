@@ -1,13 +1,31 @@
-👋 Hi there! I'm Karol Stefan Danisz, glad you're here to check out my GitHub page.
-  
-👀 I’m interested in leveraging AI, open-source technologies, and decentralized networks to drive business growth and improve operational efficiency.
+👋 Hi there! I'm **Karol Stefan Danisz**, glad you're here to check out my GitHub page.  
+I specialize in bridging technology and business strategy through AI-driven solutions, open-source innovation, and decentralized systems.
 
-🌱 I’m currently learning about the latest advancements in artificial intelligence technology and exploring new applications for self-hosted generative AI and large language models.
+---
 
-🤸 I’m looking to collaborate on projects that focus on IT infrastructure optimization, open-source software solutions, and digital transformation initiatives.
+### ❤️ Support My Work  
+Your support helps me continue developing open-source tools and sharing insights at the intersection of AI, IT, and business growth.  
+Consider sponsoring me if you’d like to contribute to this mission!  
 
-⚡ Fun fact: I've worked in both finance and IT sectors, giving me a unique perspective on the intersection of technology and business.
+<iframe src="https://github.com/sponsors/k-mktr/card" title="Sponsor k-mktr" height="225" width="600" style="border: 0;"></iframe>
 
-🤯 I'm now taking the step into GitHub, eager to share my projects and connect with like-minded individuals.
+---
 
-📫 How to reach me: k@mktr.sbs or https://mktr.sbs/linkedin
+👀 **Current Focus**  
+- Leveraging AI, open-source tech, and decentralized networks to drive business growth and operational efficiency.  
+- Exploring cutting-edge AI advancements (LLMs, generative models) for self-hosted solutions.  
+
+🤸 **Collaboration Interests**  
+- IT infrastructure optimization  
+- Open-source software development  
+- Digital transformation initiatives  
+
+⚡ **Fun Fact**  
+I’ve navigated both finance and IT sectors, offering a unique lens on tech-business synergies.  
+
+📫 **Let’s Connect**  
+- Email: [k@mktr.sbs](mailto:k@mktr.sbs)  
+- LinkedIn: [mktr.sbs/linkedin](https://mktr.sbs/linkedin)  
+- Medium: [mktr.sbs/medium](https://mktr.sbs/medium)  
+
+---
