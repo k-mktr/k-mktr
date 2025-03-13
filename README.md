@@ -1,19 +1,26 @@
-👋 Hi there! I'm **Karol Stefan Danisz**, glad you're here to check out my GitHub page.  
+👋 Hi there! I'm **Karol Stefan Danisz**, glad you're here.  
 I specialize in bridging technology and business strategy through AI-driven solutions, open-source innovation, and decentralized systems.
 
 ---
 
 ### ❤️ Support My Work  
-Your support helps me continue developing open-source tools and sharing insights at the intersection of AI, IT, and business growth.  
-Consider sponsoring me if you’d like to contribute to this mission!  
+Your support helps me continue developing open-source tools and sharing insights at the intersection of AI, IT, and small business growth.  
+[Sponsor me on GitHub](https://github.com/sponsors/k-mktr)  
 
-<iframe src="https://github.com/sponsors/k-mktr/card" title="Sponsor k-mktr" height="225" width="600" style="border: 0;"></iframe>
+---
+
+### 🚀 Featured Projects  
+#### [GPU Poor Arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena)  
+A Hugging Face Space for lightweight LLM experiments and evaluations. Perfect for those with limited GPU resources!  
+
+#### [NATTD Fedora Workstation](https://github.com/k-mktr/fedora-things-to-do)  
+A curated list of tools and configurations to turn Fedora Linux into a powerful, user-friendly workstation.  
 
 ---
 
 👀 **Current Focus**  
-- Leveraging AI, open-source tech, and decentralized networks to drive business growth and operational efficiency.  
-- Exploring cutting-edge AI advancements (LLMs, generative models) for self-hosted solutions.  
+- Leveraging AI, open-source tech, and decentralized systems for business efficiency  
+- Exploring cutting-edge advancements (LLMs, generative models) for self-hosted solutions  
 
 🤸 **Collaboration Interests**  
 - IT infrastructure optimization  
@@ -21,7 +28,7 @@ Consider sponsoring me if you’d like to contribute to this mission!
 - Digital transformation initiatives  
 
 ⚡ **Fun Fact**  
-I’ve navigated both finance and IT sectors, offering a unique lens on tech-business synergies.  
+My dual background in finance and IT gives me a unique perspective on tech-business synergies.  
 
 📫 **Let’s Connect**  
 - Email: [k@mktr.sbs](mailto:k@mktr.sbs)  
@@ -29,3 +36,5 @@ I’ve navigated both finance and IT sectors, offering a unique lens on tech-bus
 - Medium: [mktr.sbs/medium](https://mktr.sbs/medium)  
 
 ---
+
+👉 **Explore More**: Check out my [full list of repositories](https://github.com/k-mktr) for open-source tools and AI experiments!
