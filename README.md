@@ -3,12 +3,6 @@ I specialize in bridging technology and business strategy through AI-driven solu
 
 ---
 
-### ❤️ Support My Work  
-Your support helps me continue developing open-source tools and sharing insights at the intersection of AI, IT, and small business growth.  
-[Sponsor me on GitHub](https://github.com/sponsors/k-mktr)  
-
----
-
 ### 🚀 Featured Projects  
 #### [GPU Poor Arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena)  
 A Hugging Face Space for lightweight LLM experiments and evaluations. Perfect for those with limited GPU resources!  
