@@ -28,7 +28,3 @@ My dual background in finance and IT gives me a unique perspective on tech-busin
 - Email: [karo.danisz@gmail.com](mailto:karol.danisz@gmail.com)  
 - LinkedIn: [mktr.sbs/linkedin](https://mktr.sbs/linkedin)  
 - Medium: [mktr.sbs/medium](https://mktr.sbs/medium)  
-
----
-
-👉 **Explore More**: Check out my [full list of repositories](https://github.com/k-mktr) for open-source tools and AI experiments!
