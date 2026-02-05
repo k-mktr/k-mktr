@@ -26,4 +26,4 @@ My dual background in finance and IT gives me a unique perspective on tech-busin
 
 📫 **Let’s Connect**  
 - Email: [karol.danisz@gmail.com](mailto:karol.danisz@gmail.com)  
-- LinkedIn: [https://mktr.sbs/linkedin](https://www.linkedin.com/in/karol-stefan-danisz/)
+- LinkedIn: [https://linkedin.com/in/karol-stefan-danisz](https://www.linkedin.com/in/karol-stefan-danisz/)
