@@ -25,6 +25,5 @@ A curated list of tools and configurations to turn Fedora Linux into a powerful,
 My dual background in finance and IT gives me a unique perspective on tech-business synergies.  
 
 📫 **Let’s Connect**  
-- Email: [karo.danisz@gmail.com](mailto:karol.danisz@gmail.com)  
-- LinkedIn: [mktr.sbs/linkedin](https://mktr.sbs/linkedin)  
-- Medium: [mktr.sbs/medium](https://mktr.sbs/medium)  
+- Email: [karol.danisz@gmail.com](mailto:karol.danisz@gmail.com)  
+- LinkedIn: [https://mktr.sbs/linkedin](https://www.linkedin.com/in/karol-stefan-danisz/)
